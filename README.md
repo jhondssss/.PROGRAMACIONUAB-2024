@@ -1,7 +1,7 @@
 # .PROGRAMACIONUAB-2024
 
-docenteÑ fernando iquiza 
+docente: fernando iquiza 
 taller de programacion 
 universidad adventista de bolivia 
 
-alumno de la materia: 
+alumno de la materia: jhon carlos porco gonzales
